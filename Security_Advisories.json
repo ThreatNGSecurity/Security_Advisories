@@ -1,0 +1,1232 @@
+[
+    {
+        "Company": "CISA",
+        "Domain": [
+            "https://cisa.gov"
+        ],
+        "Security Advisories": [
+            "https://www.cisa.gov/news-events/cybersecurity-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "VMWare",
+        "Domain": [
+            "https://vmware.com"
+        ],
+        "Security Advisories": [
+            "https://www.vmware.com/security/advisories.html"
+        ],
+        "Has RSS Feed": "https://www.vmware.com/security/advisories.xml"
+    },
+    {
+        "Company": "Palo Alto Networks",
+        "Domain": [
+            "https://paloaltonetworks.com"
+        ],
+        "Security Advisories": [
+            "https://security.paloaltonetworks.com/"
+        ],
+        "Has RSS Feed": "https://security.paloaltonetworks.com/rss.xml"
+    },
+    {
+        "Company": "Cisco",
+        "Domain": [
+            "https://cisco.com"
+        ],
+        "Security Advisories": [
+            "https://sec.cloudapps.cisco.com/security/center/publicationListing.x"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Atlassian",
+        "Domain": [
+            "https://atlassian.com"
+        ],
+        "Security Advisories": [
+            "https://www.atlassian.com/trust/security/advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Mozilla",
+        "Domain": [
+            "https://mozilla.org"
+        ],
+        "Security Advisories": [
+            "https://www.mozilla.org/en-US/security/advisories/~~~https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Dell",
+        "Domain": [
+            "https://dell.com"
+        ],
+        "Security Advisories": [
+            "https://www.dell.com/support/security/en-us"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Tenable",
+        "Domain": [
+            "https://tenable.com"
+        ],
+        "Security Advisories": [
+            "https://www.tenable.com/security"
+        ],
+        "Has RSS Feed": "https://www.tenable.com/security/feed"
+    },
+    {
+        "Company": "Fortinet",
+        "Domain": [
+            "https://fortiguard.com"
+        ],
+        "Security Advisories": [
+            "https://www.fortiguard.com/psirt"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Redhat",
+        "Domain": [
+            "https://redhat.com"
+        ],
+        "Security Advisories": [
+            "https://access.redhat.com/security/security-updates/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Apple",
+        "Domain": [
+            "https://apple.com"
+        ],
+        "Security Advisories": [
+            "https://support.apple.com/en-us/HT201222"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Drupal",
+        "Domain": [
+            "https://drupal.org"
+        ],
+        "Security Advisories": [
+            "https://www.drupal.org/security"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "NGINX",
+        "Domain": [
+            "https://nginx.org"
+        ],
+        "Security Advisories": [
+            "https://nginx.org/en/security_advisories.html"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "AWS",
+        "Domain": [
+            "https://amazon.com"
+        ],
+        "Security Advisories": [
+            "https://aws.amazon.com/security/security-bulletins/"
+        ],
+        "Has RSS Feed": "https://aws.amazon.com/security/security-bulletins/rss/feed/"
+    },
+    {
+        "Company": "Zscaler",
+        "Domain": [
+            "https://zscaler.com"
+        ],
+        "Security Advisories": [
+            "https://www.zscaler.com/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Jenkins",
+        "Domain": [
+            "https://jenkins.io"
+        ],
+        "Security Advisories": [
+            "https://www.jenkins.io/security/advisories/"
+        ],
+        "Has RSS Feed": "https://www.jenkins.io/security/advisories/rss.xml"
+    },
+    {
+        "Company": "Solarwinds",
+        "Domain": [
+            "https://solarwinds.com"
+        ],
+        "Security Advisories": [
+            "https://www.solarwinds.com/trust-center/security-advisories"
+        ],
+        "Has RSS Feed": "https://www.solarwinds.com/shared-content/rss-feed/solarwinds-cve-rss-feed.xml"
+    },
+    {
+        "Company": "Yubico",
+        "Domain": [
+            "https://yubico.com"
+        ],
+        "Security Advisories": [
+            "https://www.yubico.com/support/security-advisories/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Splunk",
+        "Domain": [
+            "https://splunk.com"
+        ],
+        "Security Advisories": [
+            "https://advisory.splunk.com/"
+        ],
+        "Has RSS Feed": "https://advisory.splunk.com/feed.xml"
+    },
+    {
+        "Company": "Johnson Controls",
+        "Domain": [
+            "https://johnsoncontrols.com"
+        ],
+        "Security Advisories": [
+            "https://www.johnsoncontrols.com/cyber-solutions/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Okta",
+        "Domain": [
+            "https://okta.com"
+        ],
+        "Security Advisories": [
+            "https://trust.okta.com/security-advisories/"
+        ],
+        "Has RSS Feed": "https://trust.okta.com/security-advisories.xml"
+    },
+    {
+        "Company": "Rockwell",
+        "Domain": [
+            "https://rockwellautomation.com"
+        ],
+        "Security Advisories": [
+            "https://www.rockwellautomation.com/en-us/company/about-us/sustainability/trust-security/security-advisories.html"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Siemens",
+        "Domain": [
+            "https://siemens.com"
+        ],
+        "Security Advisories": [
+            "https://www.siemens.com/global/en/products/services/cert.html"
+        ],
+        "Has RSS Feed": "https://cert-portal.siemens.com/productcert/rss/advisories.atom~~~https://cert-portal.siemens.com/productcert/rss/alerts.atom"
+    },
+    {
+        "Company": "Checkpoint",
+        "Domain": [
+            "https://checkpoint.com"
+        ],
+        "Security Advisories": [
+            "https://advisories.checkpoint.com/advisories/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Sophos",
+        "Domain": [
+            "https://sophos.com"
+        ],
+        "Security Advisories": [
+            "https://www.sophos.com/en-us/security-advisories"
+        ],
+        "Has RSS Feed": "https://www.sophos.com/en-us/security-advisories/feed"
+    },
+    {
+        "Company": "Zyxel",
+        "Domain": [
+            "https://zyxel.com"
+        ],
+        "Security Advisories": [
+            "https://www.zyxel.com/global/en/support/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Moxa",
+        "Domain": [
+            "https://moxa.com"
+        ],
+        "Security Advisories": [
+            "https://www.moxa.com/en/support/product-support/security-advisory"
+        ],
+        "Has RSS Feed": "https://www.moxa.com/en/rss/moxa-security-advisory"
+    },
+    {
+        "Company": "WSO2",
+        "Domain": [
+            "https://wso2.com"
+        ],
+        "Security Advisories": [
+            "https://security.docs.wso2.com/en/latest/security-announcements/security-advisories/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Fastly",
+        "Domain": [
+            "https://fastly.com"
+        ],
+        "Security Advisories": [
+            "https://www.fastly.com/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "FreeBSD",
+        "Domain": [
+            "https://freebsd.org"
+        ],
+        "Security Advisories": [
+            "https://www.freebsd.org/security/advisories/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Lexmark",
+        "Domain": [
+            "https://lexmark.com"
+        ],
+        "Security Advisories": [
+            "https://www.lexmark.com/en_us/solutions/security/lexmark-security-advisories.html"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "WithSecure",
+        "Domain": [
+            "https://withsecure.com"
+        ],
+        "Security Advisories": [
+            "https://www.withsecure.com/en/support/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Salesforce",
+        "Domain": [
+            "https://salesforce.com"
+        ],
+        "Security Advisories": [
+            "https://security.salesforce.com/security-advisories"
+        ],
+        "Has RSS Feed": "https://security.salesforce.com/en/security-advisories/rss"
+    },
+    {
+        "Company": "Netgate",
+        "Domain": [
+            "https://netgate.com"
+        ],
+        "Security Advisories": [
+            "https://docs.netgate.com/advisories/index.html"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Debian",
+        "Domain": [
+            "https://debian.org"
+        ],
+        "Security Advisories": [
+            "https://www.debian.org/security/"
+        ],
+        "Has RSS Feed": "https://www.debian.org/security/dsa"
+    },
+    {
+        "Company": "QNAP",
+        "Domain": [
+            "https://qnap.com"
+        ],
+        "Security Advisories": [
+            "https://www.qnap.com/en-us/security-advisories"
+        ],
+        "Has RSS Feed": "https://www.qnap.com/en-us/security-advisory/feed"
+    },
+    {
+        "Company": "Philips",
+        "Domain": [
+            "https://philips.com"
+        ],
+        "Security Advisories": [
+            "https://www.philips.com/a-w/security/security-advisories.html"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "WhatsApp",
+        "Domain": [
+            "https://whatsapp.com"
+        ],
+        "Security Advisories": [
+            "https://www.whatsapp.com/security/advisories?lang=en_US"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Vandyke",
+        "Domain": [
+            "https://vandyke.com"
+        ],
+        "Security Advisories": [
+            "https://www.vandyke.com/support/advisory/index.html"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "SonicWall",
+        "Domain": [
+            "https://sonicwall.com"
+        ],
+        "Security Advisories": [
+            "https://psirt.global.sonicwall.com/"
+        ],
+        "Has RSS Feed": "https://psirtapi.global.sonicwall.com/api/v1/feed/rss.xml"
+    },
+    {
+        "Company": "3DS",
+        "Domain": [
+            "https://3ds.com"
+        ],
+        "Security Advisories": [
+            "https://www.3ds.com/vulnerability/advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Broadcom",
+        "Domain": [
+            "https://broadcom.com"
+        ],
+        "Security Advisories": [
+            "https://support.broadcom.com/web/ecx/security-advisory"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Wireshark",
+        "Domain": [
+            "https://wireshark.org"
+        ],
+        "Security Advisories": [
+            "https://www.wireshark.org/security/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Watchguard",
+        "Domain": [
+            "https://watchguard.com"
+        ],
+        "Security Advisories": [
+            "https://www.watchguard.com/wgrd-psirt/advisories"
+        ],
+        "Has RSS Feed": "https://www.watchguard.com/wgrd-psirt/advisories.xml"
+    },
+    {
+        "Company": "Bosch Security",
+        "Domain": [
+            "https://boschsecurity.com"
+        ],
+        "Security Advisories": [
+            "https://www.boschsecurity.com/xc/en/support/product-security/security-advisories.html"
+        ],
+        "Has RSS Feed": "https://psirt.bosch.com/security-advisories/bosch-building-technologies-feed.xml"
+    },
+    {
+        "Company": "Gallagher",
+        "Domain": [
+            "https://gallagher.com"
+        ],
+        "Security Advisories": [
+            "https://security.gallagher.com/en-US/Security-Advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Netskope",
+        "Domain": [
+            "https://netskope.com"
+        ],
+        "Security Advisories": [
+            "https://www.netskope.com/company/security-compliance-and-assurance/security-advisories-and-disclosures"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Trustwave",
+        "Domain": [
+            "https://trustwave.com"
+        ],
+        "Security Advisories": [
+            "https://www.trustwave.com/en-us/resources/security-resources/security-advisories/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "BeyondTrust",
+        "Domain": [
+            "https://beyondtrust.com"
+        ],
+        "Security Advisories": [
+            "https://www.beyondtrust.com/trust-center/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Spring",
+        "Domain": [
+            "https://spring.io"
+        ],
+        "Security Advisories": [
+            "https://spring.io/security"
+        ],
+        "Has RSS Feed": "https://spring.io/security.atom"
+    },
+    {
+        "Company": "Xylem",
+        "Domain": [
+            "https://xylem.com"
+        ],
+        "Security Advisories": [
+            "https://www.xylem.com/en-us/about-xylem/cybersecurity/advisories/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Nutanix",
+        "Domain": [
+            "https://nutanix.com"
+        ],
+        "Security Advisories": [
+            "https://www.nutanix.com/trust/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "F-Secure",
+        "Domain": [
+            "https://f-secure.com"
+        ],
+        "Security Advisories": [
+            "https://www.f-secure.com/en/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "UIPath",
+        "Domain": [
+            "https://uipath.com"
+        ],
+        "Security Advisories": [
+            "https://www.uipath.com/legal/trust-and-security/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Zabbix",
+        "Domain": [
+            "https://zabbix.com"
+        ],
+        "Security Advisories": [
+            "https://www.zabbix.com/security_advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "OpenVPN",
+        "Domain": [
+            "https://openvpn.com"
+        ],
+        "Security Advisories": [
+            "https://openvpn.net/security-advisories/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Beijer Electronics",
+        "Domain": [
+            "https://beijerelectronics.us"
+        ],
+        "Security Advisories": [
+            "https://www.beijerelectronics.us/en-US/Support/Security___advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Proofpoint",
+        "Domain": [
+            "https://proofpoint.com"
+        ],
+        "Security Advisories": [
+            "https://www.proofpoint.com/security/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Adobe",
+        "Domain": [
+            "https://adobe.com"
+        ],
+        "Security Advisories": [
+            "https://helpx.adobe.com/security/security-bulletin.html"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "NetApp",
+        "Domain": [
+            "https://netapp.com"
+        ],
+        "Security Advisories": [
+            "https://security.netapp.com/advisory/"
+        ],
+        "Has RSS Feed": "https://security.netapp.com/advisory/index.xml"
+    },
+    {
+        "Company": "Ruckus Networks",
+        "Domain": [
+            "https://ruckusnetworks.com"
+        ],
+        "Security Advisories": [
+            "https://www.ruckusnetworks.com/support/security-bulletins/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "ConnectWise",
+        "Domain": [
+            "https://connectwise.com"
+        ],
+        "Security Advisories": [
+            "https://www.connectwise.com/company/trust/security-bulletins"
+        ],
+        "Has RSS Feed": "https://www.connectwise.com/company/trust/security-bulletins/rss"
+    },
+    {
+        "Company": "Flexera",
+        "Domain": [
+            "https://flexera.com"
+        ],
+        "Security Advisories": [
+            "https://community.flexera.com/t5/Secunia-Advisories/ct-p/advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Sierra Wireless",
+        "Domain": [
+            "https://sierrawireless.com"
+        ],
+        "Security Advisories": [
+            "https://www.sierrawireless.com/company/iot-device-security/security-bulletins/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Arista",
+        "Domain": [
+            "https://arista.com"
+        ],
+        "Security Advisories": [
+            "https://www.arista.com/en/support/advisories-notices"
+        ],
+        "Has RSS Feed": "https://www.arista.com/support/advisories-notices/security-advisory-rss"
+    },
+    {
+        "Company": "Cloudbees",
+        "Domain": [
+            "https://cloudbees.com"
+        ],
+        "Security Advisories": [
+            "https://www.cloudbees.com/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "HP",
+        "Domain": [
+            "https://hp.com"
+        ],
+        "Security Advisories": [
+            "https://support.hp.com/us-en/security-bulletins"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Forcepoint",
+        "Domain": [
+            "https://forcepoint.com"
+        ],
+        "Security Advisories": [
+            "https://support.forcepoint.com/s/article/Forcepoint-Security-Advisories-Featured-Article"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Mitel",
+        "Domain": [
+            "https://mitel.com"
+        ],
+        "Security Advisories": [
+            "https://www.mitel.com/support/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Auth0",
+        "Domain": [
+            "https://auth0.com"
+        ],
+        "Security Advisories": [
+            "https://auth0.com/docs/secure/security-guidance/security-bulletins"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Extreme Networks",
+        "Domain": [
+            "https://extremenetworks.com"
+        ],
+        "Security Advisories": [
+            "https://community.extremenetworks.com/t5/security-advisories-formerly/bg-p/Security_Advisories"
+        ],
+        "Has RSS Feed": "https://community.extremenetworks.com/zxxfm75553/rss/board?board.id=Security_Advisories"
+    },
+    {
+        "Company": "Wibu",
+        "Domain": [
+            "https://wibu.com"
+        ],
+        "Security Advisories": [
+            "https://www.wibu.com/us/support/security-advisories.html"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "AutoDesk",
+        "Domain": [
+            "https://autodesk.com"
+        ],
+        "Security Advisories": [
+            "https://www.autodesk.com/trust/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Huawei",
+        "Domain": [
+            "https://huawei.com"
+        ],
+        "Security Advisories": [
+            "https://www.huawei.com/en/psirt/all-bulletins"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "A10 Networks",
+        "Domain": [
+            "https://a10networks.com"
+        ],
+        "Security Advisories": [
+            "https://support.a10networks.com/support/security-advisories/"
+        ],
+        "Has RSS Feed": "https://support.a10networks.com/support/security-advisories/rss.xml"
+    },
+    {
+        "Company": "Ivanti",
+        "Domain": [
+            "https://ivanti.com"
+        ],
+        "Security Advisories": [
+            "https://www.ivanti.com/blog/topics/security-advisory"
+        ],
+        "Has RSS Feed": "https://www.ivanti.com/blog/topics/security-advisory/rss"
+    },
+    {
+        "Company": "New Relic",
+        "Domain": [
+            "https://newrelic.com"
+        ],
+        "Security Advisories": [
+            "https://docs.newrelic.com/docs/security/security-privacy/information-security/security-bulletins/"
+        ],
+        "Has RSS Feed": "https://docs.newrelic.com/docs/security/new-relic-security/security-bulletins/feed.xml"
+    },
+    {
+        "Company": "Schneider Electric",
+        "Domain": [
+            "https://se.com"
+        ],
+        "Security Advisories": [
+            "https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Symfony",
+        "Domain": [
+            "https://symfony.com"
+        ],
+        "Security Advisories": [
+            "https://symfony.com/blog/category/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Asterisk",
+        "Domain": [
+            "https://asterisk.org"
+        ],
+        "Security Advisories": [
+            "https://www.asterisk.org/downloads/security-advisories/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "HPE",
+        "Domain": [
+            "https://hpe.com"
+        ],
+        "Security Advisories": [
+            "https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Qualys",
+        "Domain": [
+            "https://qualys.com"
+        ],
+        "Security Advisories": [
+            "https://www.qualys.com/security-advisories/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "IBM",
+        "Domain": [
+            "https://ibm.com"
+        ],
+        "Security Advisories": [
+            "https://www.ibm.com/support/pages/bulletin/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "AMI",
+        "Domain": [
+            "https://ami.com"
+        ],
+        "Security Advisories": [
+            "https://www.ami.com/security-center/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Intel",
+        "Domain": [
+            "https://intel.com"
+        ],
+        "Security Advisories": [
+            "https://www.intel.com/content/www/us/en/security-center/default.html"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Xen Project",
+        "Domain": [
+            "https://xen.org"
+        ],
+        "Security Advisories": [
+            "https://xenbits.xen.org/xsa/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Al Enterprise",
+        "Domain": [
+            "https://al-enterprise.com"
+        ],
+        "Security Advisories": [
+            "\"https://www.al-enterprise.com/en/search#tab=resources&f-language=en&cf-contenttype-facet=Technical%20Documentation"
+        ],
+        "Has RSS Feed": "Security%20advisory\""
+    },
+    {
+        "Company": "Microsoft",
+        "Domain": [
+            "https://microsoft.com"
+        ],
+        "Security Advisories": [
+            "https://learn.microsoft.com/en-us/security-updates/securityadvisories/securityadvisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "AppDynamics",
+        "Domain": [
+            "https://appdynamics.com"
+        ],
+        "Security Advisories": [
+            "https://docs.appdynamics.com/paa/appdynamics-security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Google",
+        "Domain": [
+            "https://google.com"
+        ],
+        "Security Advisories": [
+            "https://cloud.google.com/support/bulletins"
+        ],
+        "Has RSS Feed": "https://cloud.google.com/feeds/google-cloud-security-bulletins.xml"
+    },
+    {
+        "Company": "AMD",
+        "Domain": [
+            "https://amd.com"
+        ],
+        "Security Advisories": [
+            "https://www.amd.com/en/resources/product-security.html"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Typo3",
+        "Domain": [
+            "https://typo3.org"
+        ],
+        "Security Advisories": [
+            "https://typo3.org/help/security-advisories"
+        ],
+        "Has RSS Feed": "https://typo3.org/?type=101"
+    },
+    {
+        "Company": "LibreOffice",
+        "Domain": [
+            "https://libreoffice.org"
+        ],
+        "Security Advisories": [
+            "https://www.libreoffice.org/about-us/security/advisories/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Hitachi",
+        "Domain": [
+            "https://hitachi.com"
+        ],
+        "Security Advisories": [
+            "https://www.hitachi.com/hirt/security/security.html"
+        ],
+        "Has RSS Feed": "https://www.hitachi.com/hirt/security/index.rdf"
+    },
+    {
+        "Company": "Lenovo",
+        "Domain": [
+            "https://lenovo.com"
+        ],
+        "Security Advisories": [
+            "https://support.lenovo.com/us/en/product_security/ps500001-lenovo-product-security-advisories"
+        ],
+        "Has RSS Feed": "\"https://support.lenovo.com/us/en/api/v4/search/psrss?language=en&country=us&brand=EBG"
+    },
+    {
+        "Company": "Unify",
+        "Domain": [
+            "https://unify.com"
+        ],
+        "Security Advisories": [
+            "https://unify.com/en/support/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "JFrog",
+        "Domain": [
+            "https://jfrog.com"
+        ],
+        "Security Advisories": [
+            "https://jfrog.com/help/r/jfrog-release-information/jfrog-security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Motorola",
+        "Domain": [
+            "https://motorola.com"
+        ],
+        "Security Advisories": [
+            "https://en-us.support.motorola.com/app/product-security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Starburst",
+        "Domain": [
+            "https://starburst.io"
+        ],
+        "Security Advisories": [
+            "https://docs.starburst.io/security/advisories.html"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Amazon Linux",
+        "Domain": [
+            "https://amazon.com"
+        ],
+        "Security Advisories": [
+            "https://alas.aws.amazon.com/"
+        ],
+        "Has RSS Feed": "https://alas.aws.amazon.com/alas.rss"
+    },
+    {
+        "Company": "Zimbra",
+        "Domain": [
+            "https://zimbra.com"
+        ],
+        "Security Advisories": [
+            "https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories"
+        ],
+        "Has RSS Feed": "https://wiki.zimbra.com/security-advisory-feed.php"
+    },
+    {
+        "Company": "Axis",
+        "Domain": [
+            "https://axis.com"
+        ],
+        "Security Advisories": [
+            "https://help.axis.com/en-us/axis-os-security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "OpenDesign",
+        "Domain": [
+            "https://opendesign.com"
+        ],
+        "Security Advisories": [
+            "https://www.opendesign.com/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Synology",
+        "Domain": [
+            "https://synology.com"
+        ],
+        "Security Advisories": [
+            "https://www.synology.com/en-global/security/advisory"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Carrier",
+        "Domain": [
+            "https://carrier.com"
+        ],
+        "Security Advisories": [
+            "https://www.corporate.carrier.com/product-security/advisories-resources/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "NetBSD",
+        "Domain": [
+            "https://netbsd.org"
+        ],
+        "Security Advisories": [
+            "http://www.netbsd.org/support/security/"
+        ],
+        "Has RSS Feed": "http://www.netbsd.org/support/security/rss-advisories.xml"
+    },
+    {
+        "Company": "Fresenius",
+        "Domain": [
+            "https://fresenius.com"
+        ],
+        "Security Advisories": [
+            "https://www.fresenius.com/security-advisory"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "FCC",
+        "Domain": [
+            "https://fcc.gov"
+        ],
+        "Security Advisories": [
+            "https://www.fcc.gov/communications-business-opportunities/cybersecurity-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Siemes",
+        "Domain": [
+            "https://siemens.com"
+        ],
+        "Security Advisories": [
+            "https://www.siemens.com/global/en/products/services/cert/news.html"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Senhasegura",
+        "Domain": [
+            "https://senhasegura.com"
+        ],
+        "Security Advisories": [
+            "https://docs.senhasegura.io/security-center-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Netgear",
+        "Domain": [
+            "https://netgear.com"
+        ],
+        "Security Advisories": [
+            "https://www.netgear.com/about/security/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Tibco",
+        "Domain": [
+            "https://tibco.com"
+        ],
+        "Security Advisories": [
+            "https://community.tibco.com/advisories/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "K15T",
+        "Domain": [
+            "https://k15t.com"
+        ],
+        "Security Advisories": [
+            "https://help.k15t.com/help/security-advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Asus",
+        "Domain": [
+            "https://asus.com"
+        ],
+        "Security Advisories": [
+            "https://www.asus.com/us/content/asus-product-security-advisory/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "OpenWRT",
+        "Domain": [
+            "https://openwrt.org"
+        ],
+        "Security Advisories": [
+            "https://openwrt.org/advisory/start"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Samsung",
+        "Domain": [
+            "https://samsungmobile.com"
+        ],
+        "Security Advisories": [
+            "https://security.samsungmobile.com/securityUpdate.smsb"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Android",
+        "Domain": [
+            "https://android.com"
+        ],
+        "Security Advisories": [
+            "https://source.android.com/docs/security/bulletin"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Mendix",
+        "Domain": [
+            "https://mendix.com"
+        ],
+        "Security Advisories": [
+            "https://docs.mendix.com/releasenotes/security-advisories/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Honeywell",
+        "Domain": [
+            "https://honeywell.com"
+        ],
+        "Security Advisories": [
+            "https://sps.honeywell.com/us/en/support/productivity/cyber-security-notifications"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Redmine",
+        "Domain": [
+            "https://redmine.org"
+        ],
+        "Security Advisories": [
+            "https://www.redmine.org/projects/redmine/wiki/Security_Advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Knime",
+        "Domain": [
+            "https://knime.com"
+        ],
+        "Security Advisories": [
+            "https://www.knime.com/security/advisories"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "Aruba Networks",
+        "Domain": [
+            "https://arubanetworks.com"
+        ],
+        "Security Advisories": [
+            "https://www.arubanetworks.com/support-services/security-bulletins/"
+        ],
+        "Has RSS Feed": "NO RSS"
+    },
+    {
+        "Company": "H3 Platform",
+        "Domain": [
+            "https://www.h3platform.com"
+        ],
+        "Security Advisories": [
+            "https://www.h3platform.com/support/security-advisory"
+        ],
+        "Has RSS Feed": "NO RSS"
+    }
+]

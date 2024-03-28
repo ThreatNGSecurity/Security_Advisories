@@ -1,0 +1,124 @@
+Company,Domain,Security Advisory Link,RSS Supported
+CISA,https://cisa.gov,https://www.cisa.gov/news-events/cybersecurity-advisories,NO RSS
+VMWare,https://vmware.com,https://www.vmware.com/security/advisories.html,https://www.vmware.com/security/advisories.xml
+Palo Alto Networks,https://paloaltonetworks.com,https://security.paloaltonetworks.com/,https://security.paloaltonetworks.com/rss.xml
+Cisco,https://cisco.com,https://sec.cloudapps.cisco.com/security/center/publicationListing.x,NO RSS
+Atlassian,https://atlassian.com,https://www.atlassian.com/trust/security/advisories,NO RSS
+Mozilla,https://mozilla.org,https://www.mozilla.org/en-US/security/advisories/~~~https://www.mozilla.org/en-US/security/known-vulnerabilities/firefox/,NO RSS
+Dell,https://dell.com,https://www.dell.com/support/security/en-us,NO RSS
+Tenable,https://tenable.com,https://www.tenable.com/security,https://www.tenable.com/security/feed
+Fortinet,https://fortiguard.com,https://www.fortiguard.com/psirt,NO RSS
+Redhat,https://redhat.com,https://access.redhat.com/security/security-updates/,NO RSS
+Apple,https://apple.com,https://support.apple.com/en-us/HT201222,NO RSS
+Drupal,https://drupal.org,https://www.drupal.org/security,NO RSS
+NGINX,https://nginx.org,https://nginx.org/en/security_advisories.html,NO RSS
+AWS,https://amazon.com,https://aws.amazon.com/security/security-bulletins/,https://aws.amazon.com/security/security-bulletins/rss/feed/
+Zscaler,https://zscaler.com,https://www.zscaler.com/security-advisories,NO RSS
+Jenkins,https://jenkins.io,https://www.jenkins.io/security/advisories/,https://www.jenkins.io/security/advisories/rss.xml
+Solarwinds,https://solarwinds.com,https://www.solarwinds.com/trust-center/security-advisories,https://www.solarwinds.com/shared-content/rss-feed/solarwinds-cve-rss-feed.xml
+Yubico,https://yubico.com,https://www.yubico.com/support/security-advisories/,NO RSS
+Splunk,https://splunk.com,https://advisory.splunk.com/,https://advisory.splunk.com/feed.xml
+Johnson Controls,https://johnsoncontrols.com,https://www.johnsoncontrols.com/cyber-solutions/security-advisories,NO RSS
+Okta,https://okta.com,https://trust.okta.com/security-advisories/,https://trust.okta.com/security-advisories.xml
+Rockwell,https://rockwellautomation.com,https://www.rockwellautomation.com/en-us/company/about-us/sustainability/trust-security/security-advisories.html,NO RSS
+Siemens,https://siemens.com,https://www.siemens.com/global/en/products/services/cert.html,https://cert-portal.siemens.com/productcert/rss/advisories.atom~~~https://cert-portal.siemens.com/productcert/rss/alerts.atom
+Checkpoint,https://checkpoint.com,https://advisories.checkpoint.com/advisories/,NO RSS
+Sophos,https://sophos.com,https://www.sophos.com/en-us/security-advisories,https://www.sophos.com/en-us/security-advisories/feed
+Zyxel,https://zyxel.com,https://www.zyxel.com/global/en/support/security-advisories,NO RSS
+Moxa,https://moxa.com,https://www.moxa.com/en/support/product-support/security-advisory,https://www.moxa.com/en/rss/moxa-security-advisory
+WSO2,https://wso2.com,https://security.docs.wso2.com/en/latest/security-announcements/security-advisories/,NO RSS
+Fastly,https://fastly.com,https://www.fastly.com/security-advisories,NO RSS
+FreeBSD,https://freebsd.org,https://www.freebsd.org/security/advisories/,NO RSS
+Lexmark,https://lexmark.com,https://www.lexmark.com/en_us/solutions/security/lexmark-security-advisories.html,NO RSS
+WithSecure,https://withsecure.com,https://www.withsecure.com/en/support/security-advisories,NO RSS
+Salesforce,https://salesforce.com,https://security.salesforce.com/security-advisories,https://security.salesforce.com/en/security-advisories/rss
+Netgate,https://netgate.com,https://docs.netgate.com/advisories/index.html,NO RSS
+Debian,https://debian.org,https://www.debian.org/security/,https://www.debian.org/security/dsa
+QNAP,https://qnap.com,https://www.qnap.com/en-us/security-advisories,https://www.qnap.com/en-us/security-advisory/feed
+Philips,https://philips.com,https://www.philips.com/a-w/security/security-advisories.html,NO RSS
+WhatsApp,https://whatsapp.com,https://www.whatsapp.com/security/advisories?lang=en_US,NO RSS
+Vandyke,https://vandyke.com,https://www.vandyke.com/support/advisory/index.html,NO RSS
+SonicWall,https://sonicwall.com,https://psirt.global.sonicwall.com/,https://psirtapi.global.sonicwall.com/api/v1/feed/rss.xml
+3DS,https://3ds.com,https://www.3ds.com/vulnerability/advisories,NO RSS
+Broadcom,https://broadcom.com,https://support.broadcom.com/web/ecx/security-advisory,NO RSS
+Wireshark,https://wireshark.org,https://www.wireshark.org/security/,NO RSS
+Watchguard,https://watchguard.com,https://www.watchguard.com/wgrd-psirt/advisories,https://www.watchguard.com/wgrd-psirt/advisories.xml
+Bosch Security,https://boschsecurity.com,https://www.boschsecurity.com/xc/en/support/product-security/security-advisories.html,https://psirt.bosch.com/security-advisories/bosch-building-technologies-feed.xml
+Gallagher,https://gallagher.com,https://security.gallagher.com/en-US/Security-Advisories,NO RSS
+Netskope,https://netskope.com,https://www.netskope.com/company/security-compliance-and-assurance/security-advisories-and-disclosures,NO RSS
+Trustwave,https://trustwave.com,https://www.trustwave.com/en-us/resources/security-resources/security-advisories/,NO RSS
+BeyondTrust,https://beyondtrust.com,https://www.beyondtrust.com/trust-center/security-advisories,NO RSS
+Spring,https://spring.io,https://spring.io/security,https://spring.io/security.atom
+Xylem,https://xylem.com,https://www.xylem.com/en-us/about-xylem/cybersecurity/advisories/,NO RSS
+Nutanix,https://nutanix.com,https://www.nutanix.com/trust/security-advisories,NO RSS
+F-Secure,https://f-secure.com,https://www.f-secure.com/en/security-advisories,NO RSS
+UIPath,https://uipath.com,https://www.uipath.com/legal/trust-and-security/security-advisories,NO RSS
+Zabbix,https://zabbix.com,https://www.zabbix.com/security_advisories,NO RSS
+OpenVPN,https://openvpn.com,https://openvpn.net/security-advisories/,NO RSS
+Beijer Electronics,https://beijerelectronics.us,https://www.beijerelectronics.us/en-US/Support/Security___advisories,NO RSS
+Proofpoint,https://proofpoint.com,https://www.proofpoint.com/security/security-advisories,NO RSS
+Adobe,https://adobe.com,https://helpx.adobe.com/security/security-bulletin.html,NO RSS
+NetApp,https://netapp.com,https://security.netapp.com/advisory/,https://security.netapp.com/advisory/index.xml
+Ruckus Networks,https://ruckusnetworks.com,https://www.ruckusnetworks.com/support/security-bulletins/,NO RSS
+ConnectWise,https://connectwise.com,https://www.connectwise.com/company/trust/security-bulletins,https://www.connectwise.com/company/trust/security-bulletins/rss
+Flexera,https://flexera.com,https://community.flexera.com/t5/Secunia-Advisories/ct-p/advisories,NO RSS
+Sierra Wireless,https://sierrawireless.com,https://www.sierrawireless.com/company/iot-device-security/security-bulletins/,NO RSS
+Arista,https://arista.com,https://www.arista.com/en/support/advisories-notices,https://www.arista.com/support/advisories-notices/security-advisory-rss
+Cloudbees,https://cloudbees.com,https://www.cloudbees.com/security-advisories,NO RSS
+HP,https://hp.com,https://support.hp.com/us-en/security-bulletins,NO RSS
+Forcepoint,https://forcepoint.com,https://support.forcepoint.com/s/article/Forcepoint-Security-Advisories-Featured-Article,NO RSS
+Mitel,https://mitel.com,https://www.mitel.com/support/security-advisories,NO RSS
+Auth0,https://auth0.com,https://auth0.com/docs/secure/security-guidance/security-bulletins,NO RSS
+Extreme Networks,https://extremenetworks.com,https://community.extremenetworks.com/t5/security-advisories-formerly/bg-p/Security_Advisories,https://community.extremenetworks.com/zxxfm75553/rss/board?board.id=Security_Advisories
+Wibu,https://wibu.com,https://www.wibu.com/us/support/security-advisories.html,NO RSS
+AutoDesk,https://autodesk.com,https://www.autodesk.com/trust/security-advisories,NO RSS
+Huawei,https://huawei.com,https://www.huawei.com/en/psirt/all-bulletins,NO RSS
+A10 Networks,https://a10networks.com,https://support.a10networks.com/support/security-advisories/,https://support.a10networks.com/support/security-advisories/rss.xml
+Ivanti,https://ivanti.com,https://www.ivanti.com/blog/topics/security-advisory,https://www.ivanti.com/blog/topics/security-advisory/rss
+New Relic,https://newrelic.com,https://docs.newrelic.com/docs/security/security-privacy/information-security/security-bulletins/,https://docs.newrelic.com/docs/security/new-relic-security/security-bulletins/feed.xml
+Schneider Electric,https://se.com,https://www.se.com/ww/en/work/support/cybersecurity/security-notifications.jsp,NO RSS
+Symfony,https://symfony.com,https://symfony.com/blog/category/security-advisories,NO RSS
+Asterisk,https://asterisk.org,https://www.asterisk.org/downloads/security-advisories/,NO RSS
+HPE,https://hpe.com,https://support.hpe.com/connect/s/securitybulletinlibrary?language=en_US,NO RSS
+Qualys,https://qualys.com,https://www.qualys.com/security-advisories/,NO RSS
+IBM,https://ibm.com,https://www.ibm.com/support/pages/bulletin/,NO RSS
+AMI,https://ami.com,https://www.ami.com/security-center/,NO RSS
+Intel,https://intel.com,https://www.intel.com/content/www/us/en/security-center/default.html,NO RSS
+Xen Project,https://xen.org,https://xenbits.xen.org/xsa/,NO RSS
+Al Enterprise,https://al-enterprise.com,"https://www.al-enterprise.com/en/search#tab=resources&f-language=en&cf-contenttype-facet=Technical%20Documentation,Security%20advisory",
+Microsoft,https://microsoft.com,https://learn.microsoft.com/en-us/security-updates/securityadvisories/securityadvisories,NO RSS
+AppDynamics,https://appdynamics.com,https://docs.appdynamics.com/paa/appdynamics-security-advisories,NO RSS
+Google,https://google.com,https://cloud.google.com/support/bulletins,https://cloud.google.com/feeds/google-cloud-security-bulletins.xml
+AMD,https://amd.com,https://www.amd.com/en/resources/product-security.html,NO RSS
+Typo3,https://typo3.org,https://typo3.org/help/security-advisories,https://typo3.org/?type=101
+LibreOffice,https://libreoffice.org,https://www.libreoffice.org/about-us/security/advisories/,NO RSS
+Hitachi,https://hitachi.com,https://www.hitachi.com/hirt/security/security.html,https://www.hitachi.com/hirt/security/index.rdf
+Lenovo,https://lenovo.com,https://support.lenovo.com/us/en/product_security/ps500001-lenovo-product-security-advisories,"https://support.lenovo.com/us/en/api/v4/search/psrss?language=en&country=us&brand=EBG,TPG,IPG,MOTO,PHONE,TABLET,SMART,FCCL"
+Unify,https://unify.com,https://unify.com/en/support/security-advisories,NO RSS
+JFrog,https://jfrog.com,https://jfrog.com/help/r/jfrog-release-information/jfrog-security-advisories,NO RSS
+Motorola,https://motorola.com,https://en-us.support.motorola.com/app/product-security-advisories,NO RSS
+Starburst,https://starburst.io,https://docs.starburst.io/security/advisories.html,NO RSS
+Amazon Linux,https://amazon.com,https://alas.aws.amazon.com/,https://alas.aws.amazon.com/alas.rss
+Zimbra,https://zimbra.com,https://wiki.zimbra.com/wiki/Zimbra_Security_Advisories,https://wiki.zimbra.com/security-advisory-feed.php
+Axis,https://axis.com,https://help.axis.com/en-us/axis-os-security-advisories,NO RSS
+OpenDesign,https://opendesign.com,https://www.opendesign.com/security-advisories,NO RSS
+Synology,https://synology.com,https://www.synology.com/en-global/security/advisory,NO RSS
+Carrier,https://carrier.com,https://www.corporate.carrier.com/product-security/advisories-resources/,NO RSS
+NetBSD,https://netbsd.org,http://www.netbsd.org/support/security/,http://www.netbsd.org/support/security/rss-advisories.xml
+Fresenius,https://fresenius.com,https://www.fresenius.com/security-advisory,NO RSS
+FCC,https://fcc.gov,https://www.fcc.gov/communications-business-opportunities/cybersecurity-advisories,NO RSS
+Siemes,https://siemens.com,https://www.siemens.com/global/en/products/services/cert/news.html,NO RSS
+Senhasegura,https://senhasegura.com,https://docs.senhasegura.io/security-center-advisories,NO RSS
+Netgear,https://netgear.com,https://www.netgear.com/about/security/,NO RSS
+Tibco,https://tibco.com,https://community.tibco.com/advisories/,NO RSS
+K15T,https://k15t.com,https://help.k15t.com/help/security-advisories,NO RSS
+Asus,https://asus.com,https://www.asus.com/us/content/asus-product-security-advisory/,NO RSS
+OpenWRT,https://openwrt.org,https://openwrt.org/advisory/start,NO RSS
+Samsung,https://samsungmobile.com,https://security.samsungmobile.com/securityUpdate.smsb,NO RSS
+Android,https://android.com,https://source.android.com/docs/security/bulletin,NO RSS
+Mendix,https://mendix.com,https://docs.mendix.com/releasenotes/security-advisories/,NO RSS
+Honeywell,https://honeywell.com,https://sps.honeywell.com/us/en/support/productivity/cyber-security-notifications,NO RSS
+Redmine,https://redmine.org,https://www.redmine.org/projects/redmine/wiki/Security_Advisories,NO RSS
+Knime,https://knime.com,https://www.knime.com/security/advisories,NO RSS
+Aruba Networks,https://arubanetworks.com,https://www.arubanetworks.com/support-services/security-bulletins/,NO RSS
+H3 Platform,https://www.h3platform.com,https://www.h3platform.com/support/security-advisory,NO RSS
