@@ -8,7 +8,7 @@ Mozilla,https://mozilla.org,https://www.mozilla.org/en-US/security/advisories/~~
 Dell,https://dell.com,https://www.dell.com/support/security/en-us,NO RSS
 Tenable,https://tenable.com,https://www.tenable.com/security,https://www.tenable.com/security/feed
 Fortinet,https://fortiguard.com,https://www.fortiguard.com/psirt,NO RSS
-Redhat,https://redhat.com,https://access.redhat.com/security/security-updates/,NO RSS
+Red Hat,https://redhat.com,https://access.redhat.com/security/security-updates/,NO RSS
 Apple,https://apple.com,https://support.apple.com/en-us/HT201222,NO RSS
 Drupal,https://drupal.org,https://www.drupal.org/security,NO RSS
 NGINX,https://nginx.org,https://nginx.org/en/security_advisories.html,NO RSS
