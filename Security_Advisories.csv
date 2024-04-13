@@ -1,6 +1,6 @@
 Company,Domain,Security Advisory Link,RSS Supported
 CISA,https://cisa.gov,https://www.cisa.gov/news-events/cybersecurity-advisories,NO RSS
-VMWare,https://vmware.com,https://www.vmware.com/security/advisories.html,https://www.vmware.com/security/advisories.xml
+VMware,https://vmware.com,https://www.vmware.com/security/advisories.html,https://www.vmware.com/security/advisories.xml
 Palo Alto Networks,https://paloaltonetworks.com,https://security.paloaltonetworks.com/,https://security.paloaltonetworks.com/rss.xml
 Cisco,https://cisco.com,https://sec.cloudapps.cisco.com/security/center/publicationListing.x,NO RSS
 Atlassian,https://atlassian.com,https://www.atlassian.com/trust/security/advisories,NO RSS
