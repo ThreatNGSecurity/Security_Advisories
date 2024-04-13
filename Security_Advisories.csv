@@ -20,7 +20,7 @@ Yubico,https://yubico.com,https://www.yubico.com/support/security-advisories/,NO
 Splunk,https://splunk.com,https://advisory.splunk.com/,https://advisory.splunk.com/feed.xml
 Johnson Controls,https://johnsoncontrols.com,https://www.johnsoncontrols.com/cyber-solutions/security-advisories,NO RSS
 Okta,https://okta.com,https://trust.okta.com/security-advisories/,https://trust.okta.com/security-advisories.xml
-Rockwell,https://rockwellautomation.com,https://www.rockwellautomation.com/en-us/company/about-us/sustainability/trust-security/security-advisories.html,NO RSS
+Rockwell Automation,https://rockwellautomation.com,https://www.rockwellautomation.com/en-us/company/about-us/sustainability/trust-security/security-advisories.html,NO RSS
 Siemens,https://siemens.com,https://www.siemens.com/global/en/products/services/cert.html,https://cert-portal.siemens.com/productcert/rss/advisories.atom~~~https://cert-portal.siemens.com/productcert/rss/alerts.atom
 Checkpoint,https://checkpoint.com,https://advisories.checkpoint.com/advisories/,NO RSS
 Sophos,https://sophos.com,https://www.sophos.com/en-us/security-advisories,https://www.sophos.com/en-us/security-advisories/feed
