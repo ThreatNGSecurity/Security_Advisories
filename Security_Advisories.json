@@ -1080,16 +1080,6 @@
         "Has RSS Feed": "NO RSS"
     },
     {
-        "Company": "Siemes",
-        "Domain": [
-            "https://siemens.com"
-        ],
-        "Security Advisories": [
-            "https://www.siemens.com/global/en/products/services/cert/news.html"
-        ],
-        "Has RSS Feed": "NO RSS"
-    },
-    {
         "Company": "Senhasegura",
         "Domain": [
             "https://senhasegura.com"
