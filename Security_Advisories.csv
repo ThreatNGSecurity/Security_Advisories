@@ -89,7 +89,7 @@ Al Enterprise,https://al-enterprise.com,"https://www.al-enterprise.com/en/search
 Microsoft,https://microsoft.com,https://learn.microsoft.com/en-us/security-updates/securityadvisories/securityadvisories,NO RSS
 AppDynamics,https://appdynamics.com,https://docs.appdynamics.com/paa/appdynamics-security-advisories,NO RSS
 Google,https://google.com,https://cloud.google.com/support/bulletins,https://cloud.google.com/feeds/google-cloud-security-bulletins.xml
-AMD,https://amd.com,https://www.amd.com/en/resources/product-security.html,NO RSS
+Advanced Micro Devices,https://amd.com,https://www.amd.com/en/resources/product-security.html,NO RSS
 Typo3,https://typo3.org,https://typo3.org/help/security-advisories,https://typo3.org/?type=101
 LibreOffice,https://libreoffice.org,https://www.libreoffice.org/about-us/security/advisories/,NO RSS
 Hitachi,https://hitachi.com,https://www.hitachi.com/hirt/security/security.html,https://www.hitachi.com/hirt/security/index.rdf
