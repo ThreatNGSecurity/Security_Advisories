@@ -47,10 +47,7 @@ Connect with us on Social Media!
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />        
   </a>&nbsp;&nbsp;
   <br><br>
-    </a>
-        <a href="https://creativecommons.org/licenses/by-sa/4.0/">
-    <img src="https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg" />        
-  </a>
+
 </p>
 
 
